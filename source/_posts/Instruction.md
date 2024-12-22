@@ -33,7 +33,7 @@ date: 2024-12-08 20:00:00
 
 #### 创建或修改样式
 
-请联系 Pond-Ink 团队或直接修改 `/public/variables.json` 文件并向向 <httpa://github.com/Pond-Ink/Ex124OJ-site> 提交拉取请求。
+请联系 Pond-Ink 团队或直接修改 `/public/variables.json` 文件并向向 <https://github.com/Pond-Ink/Ex124OJ-site> 提交拉取请求。
 
 用户名后的 `CCFBadge` 表示该用户在 NOI 的获奖情况，无特殊情况与 [NOI 官网](https://www.noi.cn/) 保持一致。
 
