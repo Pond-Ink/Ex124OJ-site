@@ -2,7 +2,7 @@
 title: "New Year Magic!"
 tags: ['Advertisements']
 category: Announcements
-date: 2024-01-01 00:00:00
+date: 2025-01-01 00:00:00
 ---
 
 Hello, Ex124OJ!
@@ -24,3 +24,9 @@ New Year Magic 将从公历元旦（腊月初二）持续到农历元宵（2.12�
         <img src="/categories/Announcements/posts/New-Year-Magic/C6H4OZhu.png">
     </div>
 </div>
+
+在 New Year Magic 开放期间，用户可以通过控制面板修改自己的名字样式（不包括 `CCFBadge`），具体格式与 `/public/variables.json` 中保持一致。
+
+本功能通过使用用户账号向 NewYearMagicBot 账号发送私信进行身份验证，使用此功能即代表同意 Ex124OJ 使用私信功能。
+
+~~由于傻逼 27455 写的屎山逻辑，可能出现一系列神必问题如 New Year Magic 数据被原数据覆盖等，同时请不要尝试对服务器进行注入式攻击。~~

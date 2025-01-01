@@ -79,8 +79,4 @@ date: 2024-12-08 20:00:00
 
 ### **New Year Magic**
 
-在 New Year Magic 开放期间，用户可以通过控制面板修改自己的名字样式（不包括 `CCFBadge`），具体格式与 `/public/variables.json` 中保持一致。
-
-本功能通过使用用户账号向 NewYearMagicBot 账号发送私信进行身份验证，使用此功能即代表同意 Ex124OJ 使用私信功能。
-
-~~由于傻逼 27455 写的屎山逻辑，可能出现一系列神必问题如 New Year Magic 数据被原数据覆盖等，同时请不要尝试对服务器进行注入式攻击。~~
+详见 [New Year Magic!](/categories/Announcements/posts/New-Year-Magic)。
